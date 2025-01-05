@@ -1,0 +1,6 @@
+@ephemeris_HostAddress = http://localhost:5030
+
+GET {{ephemeris_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
